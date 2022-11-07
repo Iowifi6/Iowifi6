@@ -4,6 +4,6 @@
 - 💞️ I’m looking to make the world a better place, one app at a time.
 
 <!---
-Iowifi6/Iowifi6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Iowifi6/ioappstore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
